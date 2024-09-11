@@ -5,5 +5,5 @@ DateAdded,IoC,Type,TLP
 10/09/2024,32e0612a6fb72eb6a547151db446657a6ddc60b742bffc01021ab3bcc78ca70f,sha256,White
 10/09/2024,518bb5839f75db15ade8af0590d92f0898bb74f1933dc31dc1eb9b1c301a60bf,sha256,White
 10/09/2024,78a9962f22dee045e34d2e2259348d84b12e31a3fb5fa85f402bce9c91d08274,sha256,White
-10/09/2024,ms-vsliveshare.gallery.vsassets.io,domains,Green
-10/09/2024,router9.teamviewer.com,domains,Green
+10/09/2024,ms-vsliveshare.gallery.vsassets.io,domainname,Green
+10/09/2024,router9.teamviewer.com,domainname,Green
